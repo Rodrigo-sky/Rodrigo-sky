@@ -1,4 +1,4 @@
-### Fala, Blz!? 👋 Sou Rodrigo estudante e amante (nas horas vagas) de programação
+### Fala, Blz!? 👋 Sou Rodrigo estudante e amante de programação
 
 <div align="center">
   <a href="https://github.com/Rodrigo-sky">
