@@ -1,4 +1,4 @@
-### Fala, Blz!? 👋 Sou Rodrigo estudante e amante de programação
+### Fala, Blz!? 👋
 
 Desenvolvedor de software com experiência em Java, atuando com Spring Boot, Micronaut e APIs REST em ambientes baseados em microserviços. Tenho familiaridade com testes automatizados, monitoramento de serviços, deploys e metodologias ágeis no dia a dia do desenvolvimento.
 
